@@ -18,28 +18,29 @@ public class HomeController : Controller
 
     public IActionResult Index()
     {
-        var projects = _repository.GetProjects();
+        var projects = _repository.GetProjects().Take(3).ToList();
         var skills = _repository.GetSkills();
+        var badges = _repository.GetBadges();
 
-        var model = new PortfolioViewModel(){Projects = projects, Skills = skills };
+        var model = new PortfolioViewModel(){Projects = projects, Skills = skills, Badges=badges};
         return View("Index",model);
     }
 
-    public IActionResult Contact() { 
+    //public IActionResult Contact() { 
     
-        return View();
-    }
+    //    return View();
+    //}
 
     [HttpPost]
-    public async Task<IActionResult> Contact(ContactViewModel contact)
-    {
-        await emailService.SendEmailAsync(contact); 
-        return RedirectToAction("Thanks", "Home");
-    }
+    //public async Task<IActionResult> Contact(ContactViewModel contact)
+    //{
+    //    emailService.SendEmailAsync(contact); 
+    //    return RedirectToAction("Thanks", "Home");
+    //}
 
-    public IActionResult Thanks() {
-        return View("Thanks");
-    }
+    //public IActionResult Thanks() {
+    //    return View("Thanks");
+    //}
 
     public IActionResult Projects() { 
         var projects = _repository.GetProjects();

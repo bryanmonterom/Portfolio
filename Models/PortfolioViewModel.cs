@@ -4,6 +4,8 @@ namespace Portfolio.Models
     {
       public IEnumerable<Project> Projects { get; set; }
       public IEnumerable<Skills> Skills { get; set; }
+      public IEnumerable<Badges> Badges { get; set; }
+
 
     }
 }

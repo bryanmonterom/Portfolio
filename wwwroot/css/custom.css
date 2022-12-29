@@ -11,6 +11,11 @@
     color: white;
 }
 
+.badges-section {
+    padding: 2rem ;
+    color: white;
+}
+
 .welcome-section h1{
     margin-bottom: 1rem;
 }
@@ -51,5 +56,9 @@
     margin:5px
 }
 
+.card-badge {
+    margin:5px;
+    border-radius: 10px;
+}
 
 

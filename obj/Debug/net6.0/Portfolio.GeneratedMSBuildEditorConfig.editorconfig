@@ -15,6 +15,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/miste/Desktop/projects/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/Portfolio/Views/Home/Contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/miste/Desktop/projects/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/Portfolio/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -25,6 +29,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/miste/Desktop/projects/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/Portfolio/Views/Home/Projects.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcm9qZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/miste/Desktop/projects/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/Portfolio/Views/Home/Thanks.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUaGFua3MuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/miste/Desktop/projects/Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero/Portfolio/Views/Home/_Presentation.cshtml]

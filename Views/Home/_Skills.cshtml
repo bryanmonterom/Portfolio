@@ -1,6 +1,15 @@
+@model IEnumerable<Skills>
+
 <div style="margin-top: -105px;">
     <div class="row justify-content-md-center text-center">
-        <div class="col col-3 bg-white skills" style="border-radius: 15px 0 0 15px; box-shadow:0 5px 5px 0 gray">
+       <div class="col bg-white skills" style="border-radius: 15px 0 0 15px; box-shadow:0 5px 5px 0 gray">
+           @foreach (var item in Model)
+           {
+               <label class="skill-pills">@item.Name</label>
+           }
+       </div>
+
+      @*  <div class="col col-3 bg-white skills" style="border-radius: 15px 0 0 15px; box-shadow:0 5px 5px 0 gray">
             <i class="bi bi-hdd-rack"></i>
             <h3>Back end</h3>
             <p>"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
@@ -47,6 +56,6 @@
                 <li>HTML</li>
                 <li>Entity Framework</li>
             </ul>
-        </div>
+        </div>*@
     </div>
 </div>

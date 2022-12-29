@@ -21,7 +21,7 @@ public class HomeController : Controller
         var projects = _repository.GetProjects();
         var skills = _repository.GetSkills();
 
-        var model = new PortfolioViewModel(){Projects = projects, FrontEndSkills = skills };
+        var model = new PortfolioViewModel(){Projects = projects, Skills = skills };
         return View("Index",model);
     }
 

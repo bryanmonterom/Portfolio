@@ -19,22 +19,20 @@ public class Repository:IRepository{
     }public List<Skills> GetSkills() {
         return new List<Skills>
         {
-            new Skills{Name="Project Management" },
-            new Skills{Name="Software Development" },
-            new Skills{Name=".NET Framework" },
-            new Skills{Name="Problem Solving" },
-            new Skills{Name="Teamwork" },
-            new Skills{Name="Power BI" },
-            new Skills{Name="Version Control (Git)" },
-            new Skills{Name="Agile" },
-            new Skills{Name="SQL" },
-            new Skills{Name="C#" },
-            new Skills{Name="JQuery" },
-            new Skills{Name="APIs" },
-            new Skills{Name="Javascript" },
-            new Skills{Name="HTML" },
+            new Skills{Name="JavaScript" },
             new Skills{Name="CSS" },
-        };
+            new Skills{Name=".NET Framework" },
+            new Skills{Name="C#" },
+            new Skills{Name="SQL" },
+            new Skills{Name="JQuery" },
+            new Skills{Name="Power BI" },
+            new Skills{Name="Leadership" },
+            new Skills{Name="SCRUM" },
+            new Skills{Name="ASP.NET MVC" },
+            new Skills{Name="Entity Framework" },
+            new Skills{Name="GIT" },
+            new Skills{Name="Azure" },
+        }.OrderBy(a=>a.Name).ToList(); ;
     }
 
 }

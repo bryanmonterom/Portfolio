@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T6URsHOtIS5Ht1Nn11aEbry4/8xbTp2x+Zl1qh0QYhA=",
+  "Hash": "NUbTYQxtsvwmFl+oNa6Dnos3kpkqGzIbqS/RglhL9zQ=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -102,6 +102,23 @@
       "OriginalItemSpec": "wwwroot\\favicon.ico"
     },
     {
+      "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\fti.jpg",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/fti.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\fti.jpg"
+    },
+    {
       "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\js.svg",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -119,6 +136,23 @@
       "OriginalItemSpec": "wwwroot\\img\\js.svg"
     },
     {
+      "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\jslibrary.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/jslibrary.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\jslibrary.png"
+    },
+    {
       "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\photo.jpg",
       "SourceId": "Portfolio",
       "SourceType": "Discovered",
@@ -134,6 +168,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\img\\photo.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\todo.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/todo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\todo.png"
+    },
+    {
+      "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\weather.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/weather.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\weather.png"
     },
     {
       "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\js\\site.js",
@@ -1120,6 +1188,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\Services\\Repository.cs",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "Services/Repository.cs",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Services\\Repository.cs"
     }
   ]
 }

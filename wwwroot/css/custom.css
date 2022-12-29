@@ -1,6 +1,4 @@
-﻿body {
-}
-
+﻿
 #photo {
     width: 200px;
     height: auto;
@@ -39,4 +37,7 @@
 .skills i {
     color: rgb(18, 70, 224);
     font-size: 50px;
+}
+
+.card-info{
 }

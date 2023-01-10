@@ -13,6 +13,7 @@
 
 .badges-section {
     padding: 2rem ;
+    margin-top:1rem;
     color: white;
 }
 
@@ -41,7 +42,7 @@
 
 .skills i {
     color: rgb(18, 70, 224);
-    font-size: 50px;
+    font-size: 20px;
 }
 
 .skills  {
@@ -49,7 +50,7 @@
 }
 
 .skill-pills {
-    font-size:25px;
+    font-size:20px;
     color: white;
     border-radius:5px;
     padding:10px;
@@ -62,3 +63,10 @@
 }
 
 
+.social {
+    font-size:40px;
+}
+
+.social:hover {
+    opacity: 0.6
+}

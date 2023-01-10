@@ -1,0 +1,10 @@
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\Portfolio.exe
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\Portfolio.dll
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\Portfolio.deps.json
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\Portfolio.runtimeconfig.json
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\Portfolio.pdb
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\SendGrid.dll
+C:\Users\miste\Desktop\projects\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\Portfolio\obj\Release\net6.0\PubTmp\Out\StarkbankEcdsa.dll

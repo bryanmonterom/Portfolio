@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "T0EGLANl9Uf9JLJTtUDutYBQhSBJIgk4g8GLQMLx0ag=",
+  "Hash": "DXwxnfVYDcOOMJFjT+e0sdwO0DbR+xwG0iNR3c7Q4Nc=",
   "Source": "Portfolio",
   "BasePath": "_content/Portfolio",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\Portfolio.bundle.scp.css"
+    },
+    {
+      "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\a",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "a",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\a"
     },
     {
       "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\css\\custom.css",
@@ -100,6 +117,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\budgetmanager.png",
+      "SourceId": "Portfolio",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\",
+      "BasePath": "_content/Portfolio",
+      "RelativePath": "img/budgetmanager.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\img\\budgetmanager.png"
     },
     {
       "Identity": "C:\\Users\\miste\\Desktop\\projects\\Aprende ASP.NET Core MVC 6 Haciendo Proyectos Desde Cero\\Portfolio\\wwwroot\\img\\etch.png",

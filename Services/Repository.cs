@@ -11,6 +11,7 @@ public interface IRepository {
 public class Repository:IRepository{
        public List<Project> GetProjects(){
         return new List<Project>() {
+            new Project{Title="Budget Manager",Description="With this app you can manage and track your expenses!",Link="https://bryanmonterom.bsite.net/",ImgUrl="/img/budgetmanager.png"},
             new Project{Title="to-do lists",Description="Application to manage and handle tasks to do's by projects",Link="https://bryanmonterom.github.io/todo-list/",ImgUrl="/img/todo.png"},
             new Project{Title="FTD System",Description="Web system for the automation of the Processing Form Interdepartmental (FTI) for a Dominican University",Link="https://github.com/bryanmonterom/FTD",ImgUrl="/img/fti.jpg"},
             new Project{Title="Weather API",Description="A web app that consumes data from the OpenWeather api for a specified location as part of TheOdinProject learning path.",Link="https://bryanmonterom.github.io/weather-api/",ImgUrl="/img/weather.png"},
@@ -21,7 +22,6 @@ public class Repository:IRepository{
             new Project{Title="etch-a-sketch",Description="A etch a sketch game part of the Odin Project Learning Path",Link="https://bryanmonterom.github.io/etch-a-sketch/",ImgUrl="/img/etch.png"},
             new Project{Title="Landing Page",Description="Simple landing page to practice flexbox as part of TheOdinProject learning path",Link="https://bryanmonterom.github.io/landing-page/",ImgUrl="/img/landing.png"},
             new Project{Title="Syshotel",Description="College (2019) project to handle Reservations in a Hotel",Link="https://github.com/bryanmonterom/SysHotel",ImgUrl="/img/syshotel.png"},
-            new Project{Title="Rock Paper Scissors",Description="This is a sample of a Rock, Paper and Scissors game and the second project following The Odin Project course.",Link="https://github.com/bryanmonterom/SysHotel",ImgUrl="/img/rps.png"},
         }; 
 
     }

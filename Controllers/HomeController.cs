@@ -31,7 +31,6 @@ public class HomeController : Controller
     //    return View();
     //}
 
-    [HttpPost]
     //public async Task<IActionResult> Contact(ContactViewModel contact)
     //{
     //    emailService.SendEmailAsync(contact); 
